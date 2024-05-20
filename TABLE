@@ -5,4 +5,5 @@ CREATE TABLE Persons (
     FirstName varchar(255),
     Age int,
     CHECK (Age>=18)
+//sample
 );
